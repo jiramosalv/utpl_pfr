@@ -1,2 +1,1 @@
-# utpl_pfr
-# prueba
+Talleres y actividades Programación Funcional y reactiva
